@@ -322,7 +322,11 @@ GameObject:
   - component: {fileID: 1349987131}
   - component: {fileID: 1349987130}
   m_Layer: 0
+<<<<<<< Updated upstream
   m_Name: cube niggiz
+=======
+  m_Name: boom
+>>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
